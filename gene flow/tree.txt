@@ -1,0 +1,1 @@
+(((((amoyensis,altaica),(corbetti,jacksoni)),tigris),sumatrae),cat);
